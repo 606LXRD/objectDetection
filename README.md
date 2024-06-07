@@ -1,5 +1,5 @@
 ﻿# objectDetection
- ![Uploading image.png…]()
+![photo_5411589442579323357_y](https://github.com/606LXRD/objectDetection/assets/116348495/c9e79bff-c439-41af-b6d6-8d64be58296f)
 
 Проект на нейронные сети 2024. Нейронная сеть, способная детектить объекты мазка крови на изображениях.
 Обучалась на этом датасете - https://datasetninja.com/bccd
